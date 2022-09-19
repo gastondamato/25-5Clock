@@ -1,2 +1,2 @@
 # 25-5Clock
-Created with CodeSandbox
+Pomidoro Timer Challenge for freecodecamp.org in React
